@@ -1,0 +1,23 @@
+[
+  {"Pressed": "'w'"}, 
+  {"Pressed": "'h'"},  
+ {"Released": "'a'"},
+  {"Pressed": "'t'"}, 
+
+  {"Pressed": "Key.space"},
+
+  {"Pressed": "'i'"}, 
+  {"Pressed": "'s'"},
+
+  {"Pressed": "Key.space"}, 
+
+  {"Pressed": "'k'"},
+  {"Pressed": "'e'"},
+  {"Pressed": "'y'"},
+  {"Pressed": "'l'"}, 
+  {"Pressed": "'o'"},
+  {"Pressed": "'g'"}, 
+  {"Pressed": "'g'"}, 
+  {"Pressed": "'e'"}, 
+  {"Pressed": "'r'"}, 
+]
